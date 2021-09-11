@@ -10,9 +10,9 @@
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> •
- <a href="#tecnologias">Instalação</a> •
+ <a href="#-tecnologias">Tecnologias</a> •
  <a href="#-autor">Autor</a> •
- <a href="#licença">Tecologias</a> •
+ <a href="#-licença">Licença</a> •
 </p>
 
 ### Features
@@ -28,36 +28,26 @@ Faz um CRUD (create, read, update e delete) tanto para consumir uma api como par
 
 ## ⚙️ Funcionalidades
 
-<h1>Cadastro de Carro</h1>
+<h3>Cadastro de Carro</h3>
 <p>A tela de Cadastro de Carro salva os dados em um Banco de Dados. Precisa do arquivo formcadastro-Backend, que se encontra no meu github</p>
 
-<h1>Cadastro de Peça</h1>
+<h3>Cadastro de Peça</h3>
 <p>A tela de Cadastro de Peça salva os dados no Local Storage, não precisando instalar nem fazer conexão com Banco de Dados</p>
 
 ---
 
 ## 🎨 Layout
 
-<h1 align="center">
-  <img alt="TelaDeCadastro" title="#TelaDeCadastro" src="./assets/imgReadme/telaDeCadastro.png" />
-</h1>
+<img alt="TelaDeCadastro" title="#TelaDeCadastro" src="./assets/imgReadme/telaDeCadastro.png" />
 
-<h1 align="center">
-  <img alt="TelaDeCadastroDeCarro" title="#TelaDeCadastroDeCarro" src="./assets/imgReadme/TelaDeCadastroDeCarro.png" />
-</h1>
+<img alt="TelaDeCadastroDeCarro" title="#TelaDeCadastroDeCarro" src="./assets/imgReadme/TelaDeCadastroDeCarro.png" />
 
-<h1 align="center">
-  <img alt="TelaDeCadastroDePeca" title="#TelaDeCadastroDePeca" src="./assets/imgReadme/TelaDeCadastroDePeca.png" />
-</h1>
+<img alt="TelaDeCadastroDePeca" title="#TelaDeCadastroDePeca" src="./assets/imgReadme/TelaDeCadastroDePeca.png" />
 
-<h1 align="center">
-  <img alt="Excluir" title="#Excluir" src="./assets/imgReadme/excluir.png" />
-</h1>
+<img alt="Excluir" title="#Excluir" src="./assets/imgReadme/excluir.png" />
 <strong>Excluir a linha do item</strong>
 
-<h1 align="center">
-  <img alt="Alterar" title="#Alterar" src="./assets/imgReadme/alterar.png" />
-</h1>
+<img alt="Alterar" title="#Alterar" src="./assets/imgReadme/alterar.png" />
 <strong>Altera a linha do item. Joga os dados nos determinado campos, o usuáio faz a alteração e clica no botão Cadastrar</strong>
 
 ---
@@ -128,7 +118,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[React Icons](https://react-icons.github.io/react-icons/)**
 -   **[Axios](https://github.com/axios/axios)**
 
-> Veja o arquivo  [package.json](https://github.com/gustavo-gnunes/README-ecoleta/blob/master/web/package.json)
+> Veja o arquivo  [package.json](https://github.com/gustavo-gnunes/formcadastro-react/blob/main/package.json)
 
 ---
 
