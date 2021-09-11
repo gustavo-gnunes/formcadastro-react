@@ -136,7 +136,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-genaro-b715396a/)](https://www.linkedin.com/in/gustavo-genaro-b715396a/)
 
-
 ---
 
 ## 📝 Licença
