@@ -6,7 +6,7 @@
 </h4>
 
 <p align="center">
- <a href="#sobre-o-projeto">Sobre o projeto</a> •
+ <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> •
@@ -38,17 +38,17 @@ Faz um CRUD (create, read, update e delete) tanto para consumir uma api como par
 
 ## 🎨 Layout
 
-<img alt="TelaDeCadastro" title="#TelaDeCadastro" src="./assets/imgReadme/telaDeCadastro.png" />
+<img alt="TelaDeCadastro" title="#TelaDeCadastro" src="./src/assets/imgReadme/telaDeCadastro.png" />
 
-<img alt="TelaDeCadastroDeCarro" title="#TelaDeCadastroDeCarro" src="./assets/imgReadme/TelaDeCadastroDeCarro.png" />
+<img alt="TelaDeCadastroDeCarro" title="#TelaDeCadastroDeCarro" src="./src/assets/imgReadme/TelaDeCadastroDeCarro.png" />
 
-<img alt="TelaDeCadastroDePeca" title="#TelaDeCadastroDePeca" src="./assets/imgReadme/TelaDeCadastroDePeca.png" />
+<img alt="TelaDeCadastroDePeca" title="#TelaDeCadastroDePeca" src="./src/assets/imgReadme/TelaDeCadastroDePeca.png" />
 
-<img alt="Excluir" title="#Excluir" src="./assets/imgReadme/excluir.png" />
-<strong>Excluir a linha do item</strong>
+<img alt="Excluir" title="#Excluir" src="./src/assets/imgReadme/excluir.png" />
+<span>Excluir a linha do item</span>
 
-<img alt="Alterar" title="#Alterar" src="./assets/imgReadme/alterar.png" />
-<strong>Altera a linha do item. Joga os dados nos determinado campos, o usuáio faz a alteração e clica no botão Cadastrar</strong>
+<img alt="Alterar" title="#Alterar" src="./src/assets/imgReadme/alterar.png" />
+<span>Altera a linha do item. Joga os dados nos determinado campos, o usuáio faz a alteração e clica no botão Cadastrar</span>
 
 ---
 
