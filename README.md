@@ -96,7 +96,7 @@ $ npm run dev:server
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:gustavo-gnunes/README-ecoleta.git
+$ git clone git@github.com:gustavo-gnunes/formcadastro-react.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd formcadastro-react
