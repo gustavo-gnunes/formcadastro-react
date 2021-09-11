@@ -76,7 +76,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:gustavo-gnunes/README-ecoleta.git
+$ git clone git@github.com:gustavo-gnunes/formcadastro-react.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd formcadastro-Backend
