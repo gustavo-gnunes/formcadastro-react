@@ -40,15 +40,20 @@ Faz um CRUD (create, read, update e delete) tanto para consumir uma api como par
 
 <img alt="TelaDeCadastro" title="#TelaDeCadastro" src="./src/assets/imgReadme/telaDeCadastro.png" />
 
-<img alt="TelaDeCadastroDeCarro" title="#TelaDeCadastroDeCarro" src="./src/assets/imgReadme/TelaDeCadastroDeCarro.png" />
+<img alt="TelaDeCadastroDeCarro" title="#TelaDeCadastroDeCarro" src="./src/assets/imgReadme/telaDeCadastroDeCarro.png" />
 
-<img alt="TelaDeCadastroDePeca" title="#TelaDeCadastroDePeca" src="./src/assets/imgReadme/TelaDeCadastroDePeca.png" />
+<img alt="TelaDeCadastroDePeca" title="#TelaDeCadastroDePeca" src="./src/assets/imgReadme/telaDeCadastroDePeca.png" />
 
-<img alt="Excluir" title="#Excluir" src="./src/assets/imgReadme/excluir.png" />
-<span>Excluir a linha do item</span>
+<div>
+  <img alt="Excluir" title="#Excluir" src="./src/assets/imgReadme/excluir.png" />
+  <span>Excluir a linha do item</span>
+</div>
 
-<img alt="Alterar" title="#Alterar" src="./src/assets/imgReadme/alterar.png" />
-<span>Altera a linha do item. Joga os dados nos determinado campos, o usuáio faz a alteração e clica no botão Cadastrar</span>
+<div>
+  <img alt="Alterar" title="#Alterar" src="./src/assets/imgReadme/alterar.png" />
+  <span>Altera a linha do item. Joga os dados nos determinado campos, o usuáio faz a alteração e clica no botão Cadastrar</span>
+</div>
+
 
 ---
 
@@ -58,7 +63,7 @@ Este projeto é divido em duas partes:
 1. Backend
 2. Frontend
 
-💡Para a parte de Cadastro de Carro do Frontend precisa que o Backend esteja sendo executado para funcionar.
+💡Para a parte de Cadastro de Carro - do Frontend, precisa que o Backend esteja sendo executado para funcionar.
 
 ### Pré-requisitos
 
